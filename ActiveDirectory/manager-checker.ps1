@@ -7,7 +7,7 @@
 $searchbase = "DC=contoso,DC=local"
 
 #DNS address of an smtp server.
-$SendingServer = smtp.contoso.local
+$SendingServer = "smtp.contoso.local"
 
 #email address emails are sent from.  You may get out of office messages to here.
 $FromAddress = "Displayname<return@contoso.com>"
